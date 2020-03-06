@@ -41,9 +41,9 @@ const paths = {
         build: "./dist",
 
         images: {
-          src: `${paths.source}\assets\images`,
-          dest: `${paths.build}\assets\images`,
-        };
+          src: `./src/assets/images`,
+          dest: `./dist/assets/images`,
+        }
 };
 
 
